@@ -1,0 +1,4 @@
+FACTURA
+Cliente: TechSolutions SL
+Direccion: Calle Industria 55, Madrid
+Total a pagar: 4081.29975
